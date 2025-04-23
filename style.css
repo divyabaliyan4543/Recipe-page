@@ -47,13 +47,14 @@ h1 {
   border-radius: 15px;
 }
 
-h4 {
+strong {
   color: hsl(332, 51%, 32%);
-  margin-bottom: 10px;
-  font-size: 25px;
+  font-size: 17px;
+  font-weight: 600;
 }
 
 .dish-time {
+  margin-top: 20px;
   padding: 0 20px;
 }
 
